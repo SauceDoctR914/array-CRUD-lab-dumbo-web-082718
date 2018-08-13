@@ -2,9 +2,8 @@ def create_an_empty_array
  [] 
 end
 
-def create_an_array(item)
+def create_an_array()
   myarray = []
-  myarray.push(item)
   myarray
 end
 
